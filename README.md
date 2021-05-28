@@ -15,8 +15,12 @@ Output: 0 0 0 1 1
 **Example 2:**
 
 Input:
+
 N = 4
+
 Arr[] = {1, 1, 1, 1}
+
 Output: 1 1 1 1
+
 Explanation: There are no 0 in the given array, 
 so the modified array is 1 1 1 1.
