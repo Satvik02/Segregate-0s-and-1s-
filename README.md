@@ -5,8 +5,11 @@ Given an array of length N consisting of only 0s and 1s in random order. Modify 
 **Example 1:**
 
 Input:
+
 N = 5
+
 arr[] = {0, 0, 1, 1, 0}
+
 Output: 0 0 0 1 1
 
 **Example 2:**
